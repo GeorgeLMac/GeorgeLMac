@@ -25,7 +25,7 @@
 
 <details title="Most Used Languages and Trophies" align="left">
     <br />
-    <summary align="left"><strong><i>Most Used Languages and Trophies</i></strong> 📊 🏆</summary>
+    <summary align="left"><strong><i>Most Used Languages</i></strong> 📊 </summary>
     <img 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLMac&langs_count=8&layout=compact&theme=gruvbox" 
          width="40%"           
