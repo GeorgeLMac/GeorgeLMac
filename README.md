@@ -81,7 +81,7 @@
     <a href="#">
       <img 
            src="https://i.imgur.com/yStOhwK.png" 
-           width="1075px" 
+           width="975px" 
            height="395px" 
            title="day++" 
            alt="Routine"
