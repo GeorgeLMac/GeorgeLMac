@@ -82,7 +82,7 @@
       <img 
            src="https://i.imgur.com/yStOhwK.png" 
            width="975px" 
-           height="495px" 
+           height="295px" 
            title="day++" 
            alt="Routine"
       >
